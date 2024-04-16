@@ -3,6 +3,12 @@
 
 **OBJECTIVES:** The primary objective of the Details Dashboard is to provide a comprehensive and user-friendly interface for accessing vital loan data. It will serve as a one-stop solution for users seeking detailed insights into our loan portfolio, borrower profiles, and loan performance.
 
+**Analysis Process** -
+🔸Data Collection
+🔸Data Analyzing
+🔸Data Visualisation
+🔸Taking Insights.
+
 # Key Performance Indicators (KPIs) Requirements:
 
 1.**Total Loan Applications:** This means we count how many people apply for loans within a specific time. it is essential to monitor the Month-to-Date (MTD) Loan Applications and track changes Month-over-Month (MoM).
