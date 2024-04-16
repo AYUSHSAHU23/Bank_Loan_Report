@@ -5,8 +5,11 @@
 
 **Analysis Process** -
 🔸Data Collection
+
 🔸Data Analyzing
+
 🔸Data Visualisation
+
 🔸Taking Insights.
 
 # Key Performance Indicators (KPIs) Requirements:
