@@ -43,6 +43,6 @@
 <img width="928" alt="image" src="https://github.com/AYUSHSAHU23/Bank_Loan_Report/assets/121926434/3d0b3a2a-c188-4912-b29b-be5959dd8c91">
 
 # Insights:
-If you see in the **Good Loan** we can see the funded amount is 370 million which given by the bank in the form of loan. And they are receiving bag from the particular customers is 435.8 million.. so as you can see the difference in the amount. So bank is in profit in here...And 
+If you see in the **Good Loan** we can see the funded amount is 370 million which given by the bank in the form of loan. And they are receiving back from the particular customers is 435.8 million.. so as you can see the difference in the amount. So bank is in profit in here...And 
 
 In the case of **bad loans**, the value extended to customers amounts to 65.5 million, yet the bank has only received 37.3 million in repayments. This indicates a loss for the bank, emphasizing the necessity to avoid such loan applications
